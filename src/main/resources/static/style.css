@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+.header{
+	min-height: 100vh;
+	widows: 100%;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	z-index: 10000;
+}
+
+
+
